@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ShakeToFindWin11")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b6934803964396d0545aa7aaa360a4995e94ae8b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+186b8a8a68435e73c2fa21dfcd1b72ba9ad99209")]
 [assembly: System.Reflection.AssemblyProductAttribute("ShakeToFindWin11")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ShakeToFindWin11")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
